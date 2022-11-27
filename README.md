@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andreas Bayu
+- 👋 Hi, I’m Andreas Bayu Prakasa
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning Computer Science @UBAYA
 - 💞️ I’m looking to collaborate on 
